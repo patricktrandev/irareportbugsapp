@@ -1,0 +1,4 @@
+
+
+export const GET_ALL_STATUS = 'GET_ALL_STATUS'
+export const GET_ALL_STATUS_REDUCER = 'GET_ALL_STATUS_REDUCER'
